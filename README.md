@@ -16,7 +16,7 @@ Fueled by high energy levels and boundless enthusiasm I like to keep learning, c
 
 
 
-<h2>Letest Working Project Demos</h2>
+<h2>☯ Letest Working Project Demos</h2>
 
 
  ▶︎[Brick Website Demo Video](https://youtu.be/Z4Ca1MJntUM "Little red riding hood - Click to Watch!") <br>
