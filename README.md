@@ -3,7 +3,7 @@
 <h2>I'm Faheem Zaidi</h2>
 
 <img align="center"  width="100%" alt="Code" src="http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
-<br>
+
 <h2> 💫 About Me:</h2>
 Full Stack Developer on PHP and Bootstrap, JavaScript Have serious passion for creating intuitive and dynamic user experiences. 
 Fueled by high energy levels and boundless enthusiasm I like to keep learning, continue challenging myself, and do interesting things that matter.
