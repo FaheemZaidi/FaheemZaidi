@@ -16,6 +16,12 @@ Fueled by high energy levels and boundless enthusiasm I like to keep learning, c
 
 
 
+<h2>Letest Working Project Demos</h2>
+
+
+ ▶︎[Brick Website Demo Video](https://youtu.be/Z4Ca1MJntUM "Little red riding hood - Click to Watch!")&nbsp; &nbsp;
+ ▶︎[Movie Website Demo Video](https://youtu.be/iayY2aG6s5A "Little red riding hood - Click to Watch!")
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fzz.sss) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mf.zaidi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faheemzaidi80) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/faheemzaidi80) 
