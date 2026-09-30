@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Faheem Zaidi
 
-### Full Stack Developer | Node.js | Vue.js | Nuxt.js | MariaDB | AWS
+### Full Stack Developer | Node.js | Vue.js | Nuxt.js | MySql | AWS
 
 Building scalable web, mobile, enterprise, and Smart City solutions.
 
