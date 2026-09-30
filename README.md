@@ -134,7 +134,7 @@ Real-time monitoring solutions for smart water meters implemented across multipl
 
 ### Contribution
 
-**45%**
+**55%**
 
 ---
 
@@ -221,7 +221,7 @@ Event management platform supporting:
 
 ---
 
-## 🏢 Corporate Website — Macsinfo Pvt Ltd
+## 🏢 Corporate Website
 
 Responsive and SEO-friendly corporate website developed for business requirements.
 
