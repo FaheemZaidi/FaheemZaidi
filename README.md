@@ -81,10 +81,9 @@ I enjoy working across the complete application lifecycle — from **database de
 
 # 💼 Professional Experience
 
-## Full Stack Developer — Livefibre Connect Pvt Ltd
+## Full Stack Developer 
 
 📍 **Noida, India**  
-📅 **December 2022 – Present**
 
 Working on enterprise applications and Smart City solutions across backend, frontend, database, mobile applications, and system integration.
 
